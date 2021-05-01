@@ -1,0 +1,16 @@
+library(shiny)
+library(RMixpanel)
+library(devtools)
+library(ggplot2)
+library(magrittr)
+library(dplyr)
+library(plotly)
+library(hexbin)
+library(repr)
+library(rvest)
+library(NHANES)
+
+source('ui.R')
+source('server.R')
+
+shinyApp(ui = ui, server = server)
