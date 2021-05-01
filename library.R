@@ -6,7 +6,6 @@ library(magrittr)
 library(dplyr)
 library(plotly)
 library(hexbin)
-library(repr)
 library(rvest)
 library(NHANES)
 
