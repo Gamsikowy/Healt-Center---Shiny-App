@@ -3,7 +3,7 @@
 * [Description](#Description)
 * [Technologies](#technologies)
 ## Description:
-Shiny application showing health information from the NHANES package.
+Shiny application showing health information from the NHANES package.<br>
 [Click to watch a video showing how to use the application.](https://www.youtube.com/watch?v=_269bzGTD8Y)<br>
 ## Technologies:
 List of used libraries:
